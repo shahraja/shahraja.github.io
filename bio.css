@@ -1,0 +1,69 @@
+ table,tr,td{
+    background-color: red;
+    font-family: cursive, comic sans; color:white; size:3;
+    color: white;
+    border: 1px solid black;
+    padding: 5px;
+    border-collapse: collapse;
+ }
+ .h{
+    border: 8px groove yellow;
+    padding: 20px;
+ }
+ .posisi{
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-top: auto;
+    left: 0;
+    right: 0;
+    top: 100px;
+    bottom: 0;
+ }
+ body{
+    background-image: url('dp-bbm-grafiti-3d-tulisan.jpg');
+    background-repeat: no-repeat;
+    background-size: 1400px auto;
+ }
+
+ #aku {
+    background-color: saddlebrown;
+    color: white;
+    font-style: italic;
+ }
+
+a {
+    color: white;
+    font-style: italic;
+}
+
+h1 {
+    font-family: cursive, comic sans; text-shadow: 05px 00px 05px blue;
+    color: white;
+}
+
+h2 {
+     font-family: cursive, comic sans; text-shadow: 05px 00px 05px red;
+    color: white;
+}
+
+p {
+    font-family: cursive, comis sans; text-shadow: 05px 00px 05px blue;
+    color: white;
+    font-size: 20px;
+}
+
+img {
+    position: auto;
+}
+
+#style {
+    font-family: cursive, comic sans; text-shadow: 05px 00px 05px red;
+    color: green;
+}
+
+#css{
+    font-family: cursive, comic sans; text-shadow: 05px 00px 05px white;
+    color: blue;   
+}
