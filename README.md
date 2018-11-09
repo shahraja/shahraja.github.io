@@ -1,2 +1,0 @@
-# shahraja.github.io
-portopolio
